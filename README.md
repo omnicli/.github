@@ -1,26 +1,3 @@
-```
-  :?:.!YG#&@@@&#GJ~.
- 7#@&#@@@&#BGB#&@@@#Y^
- ^&@@@@&?.     :~Y#@@@Y
-.G@@&#@@&5^       .J@@@G.   OMNI
-P@@@! 7B@@@P~       7@@@5
-@@@P    !B@@@G~      G@@&     THE OMNIPOTENT
-@@@P    !B@@@B!      G@@&        DEV TOOL
-P@@@~ 7B@@@P~       !@@@5
-.G@@&B@@&P~       .?@@@G.
- ^#@@@@&?.     .~J#@@@Y.
- 7&@&#@@@&BGGGB&@@@#5^
-  :?^.!YG#@@@@@#GY!.
-```
+# .github
 
-# omni - omnipotent tool
-
-Get started in a pinch:
-
-```bash
-sh -c "$(curl -fsLS get.omnicli.dev)" -- help
-```
-
-Documentation available on [omnicli.dev](https://omnicli.dev).
-
-Source code available on [xaf/omni](https://github.com/xaf/omni).
+Special repository to configure the organization.
